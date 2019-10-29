@@ -1,0 +1,4 @@
+---
+- name: Apache server installed
+  hosts: web
+  become: yes

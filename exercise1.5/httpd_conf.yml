@@ -1,0 +1,4 @@
+---
+- name: manage httpd.conf
+  hosts: web
+  become: yes

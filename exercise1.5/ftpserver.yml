@@ -1,0 +1,4 @@
+---
+- name: Install vsftpd on ftpservers
+  hosts: all
+  become: yes

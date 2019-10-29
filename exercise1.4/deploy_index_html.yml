@@ -1,0 +1,4 @@
+---
+- name: Copy index.html
+  hosts: web
+  become: yes
